@@ -1,0 +1,15 @@
+.loader {
+  margin-top: 3%;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  right: 44%;
+}
+
+.error {
+  margin-top: 5%;
+  width: 100%;
+  text-align: center;
+  color: red;
+  font-size: large;
+}
